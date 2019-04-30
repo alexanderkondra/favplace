@@ -1,0 +1,25 @@
+p {
+  color: #20fc8f;
+  font-size: 90%;
+  font-family: 'Indie Flower', cursive;
+}
+img {
+  height: 40%;
+  width: 40%;
+}
+h1 {
+  color: #00CC99;
+  text-align: center;
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 300%;
+}
+body {
+  text-align: center;
+
+}
+li {
+  text-align: center;
+  list-style: none;
+  font-size: 200%;
+  line-height: 2;
+}
