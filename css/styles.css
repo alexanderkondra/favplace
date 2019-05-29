@@ -8,6 +8,7 @@ h2 {
 }
 li {
   line-height: 200%;
+  list-style-type: none;
 }
 
 p {
@@ -15,4 +16,7 @@ p {
   font-size: 90;
   font-family: cursive;
   line-height: 400%;
+}
+body{
+  text-align: center;
 }
